@@ -1,0 +1,31 @@
+_repo: Music-Notation-and-Terminology_19499
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gehrkens, Karl Wilson
+    birthdate: 1882
+    deathdate: 1975
+    gutenberg_agent_id: '8711'
+    url: http://www.gutenberg.org/2009/agents/8711
+    wikipedia: http://www.oberlin.edu/archive/holdings/finding/RG30/SG18/biography.html
+description: ''
+gutenberg_bookshelf:
+- Music
+- Reference
+gutenberg_issued: '2006-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musical notation'
+- !lcsh 'Music -- Terminology'
+- !lcc 'MT'
+title: Music Notation and Terminology
+url: http://www.gutenberg.org/ebooks/19499
