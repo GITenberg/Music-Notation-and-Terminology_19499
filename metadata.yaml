@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8711
     wikipedia: http://www.oberlin.edu/archive/holdings/finding/RG30/SG18/biography.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19499#Music-Notation-and-Terminology
 gutenberg_bookshelf:
 - Music
 - Reference
